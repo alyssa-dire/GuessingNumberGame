@@ -24,15 +24,3 @@ p {
 	font-size: 20px;
 	color: #000000;
 	}
-
-a:link {
-    color: #000000;
-}
-
-a:visited  {
-    color: #660066;
-}
-
-a:active, a:hover {
-    color:  #000066;
-}
